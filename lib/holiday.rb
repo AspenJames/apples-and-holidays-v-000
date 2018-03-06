@@ -64,4 +64,4 @@ def all_holidays_with_bbq(holiday_hash)
   # include the string "BBQ"
 
 end
-add_supply_to_winter_holidays
+
